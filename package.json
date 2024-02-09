@@ -1,0 +1,25 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "Rest APIs for a simple task manager",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abijithwilson/taskManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abijithwilson/taskManager/issues"
+  },
+  "homepage": "https://github.com/abijithwilson/taskManager#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "npx": "^10.2.2"
+  }
+}

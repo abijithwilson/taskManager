@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Create a new project",
+      "description": "Create a new project using nest",
+      "completed": false,
+      "priority": "low",
+      "createdAt": "09/02/2024"
+    }
+  ]
+}
